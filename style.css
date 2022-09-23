@@ -1,0 +1,38 @@
+
+h1
+{
+    color: #FF8066;
+}
+h2
+{
+    color: #C34A36;
+  }
+
+h3
+{
+    color:#4B4453;
+  }
+
+
+a:active /* Quand le visiteur clique sur le lien */
+{
+    background-color: #FFCC66;
+}
+body
+
+h1, h2 ,h3
+{
+    font-family: 'droid_sansregular', 'Arial', sans-serif;
+}
+
+h1, h2,h3 + p
+{
+    text-align: left;
+}
+
+img
+{
+    float: right;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px black;
+}
